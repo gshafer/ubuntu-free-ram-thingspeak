@@ -1,7 +1,7 @@
 # ubuntu-free-ram-thingspeak
 Shell program that displays a graph of free RAM on an Ubuntu Server
 
-This shell program reads the free RAM memory on your Ubuntu server and sends it to the Thingsspeak website to produce a graph.
+This shell program reads the free RAM memory on your Ubuntu server and sends it to the Thingspeak website to produce a graph.
 
 You must go to the Thinkspeak website to open a free acoount and get an API key and set up a channel.
 
