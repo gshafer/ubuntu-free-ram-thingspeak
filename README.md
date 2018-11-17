@@ -13,5 +13,6 @@ You can also add this simple frame specification to a web page to display the gr
 
 <iframe width="1350" height="780" align="middle"style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/YOUR-CHANNEL-ID/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=288&type=line&update=15&height=auto&width=auto&title='Free RAM'"></iframe>
 
+
 Note you have to add your channel id. Width, Heigh and Title can be modified.
 
